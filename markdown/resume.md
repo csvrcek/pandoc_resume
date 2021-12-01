@@ -1,13 +1,36 @@
-Johnny Coder
-============
+# Connor Svrcek
+----
+
+>  Real time APIs, batch processing, AWS cloud technologies, more
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+## Experience
 
-----
+**Capital One**
+
+Software Engineer
+
+August 2020 - Present
+
+* Internal Solr search API for customer demographic data used enterprise-wide, written in Java Spring Boot
+
+  * Added features to enable real time streaming of incoming requests to a Kafka cluster
+
+  * Researched and developed methods to improve relevancy of Solr search results
+
+  * Owned, operated and successfully lead decommissioning of internal messaging queue built on top of RabbitMQ
+
+  * Aided in architecting a solution to smoothly transition clients away from legacy search platform without them ever noticing
+
+  * Ensured platforms were compliant with rigorous enterprise cyber standards
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
 
 Education
 ---------
@@ -23,24 +46,6 @@ Education
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
